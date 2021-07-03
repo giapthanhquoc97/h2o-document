@@ -1,0 +1,13 @@
+{
+    "name": "h2o/document",
+    "description": "create document api",
+    "license": "h2o",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Giáp Thanh Quốc",
+            "email": "giapthanhquoc@gmail.com"
+        }
+    ],
+    "require": {}
+}
